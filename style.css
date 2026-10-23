@@ -1,0 +1,47 @@
+/* Criar estilo para a página */
+body {
+    front-family: 'Arial'. sans-serif;
+    background-color: #4682B4;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Estilo para a seção principal */
+section {
+    background-color: #87CEFA;
+    border: 2px #170664;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Estilo para os artigos */
+article {
+    background-color: #87CEEB;
+    border: 2px solid #387a99f3;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Estilo para o Cabeçalho */
+header {
+    background-color: #B0E0E6 ;
+    border: 4px solid #AFEEEE ;
+    border-radius: 8px ;
+    padding: 20px ;
+}
+
+/* Estilo para os Títulos */
+h2{
+    color: #191970;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin-bottom: 12px
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
